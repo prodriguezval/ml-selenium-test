@@ -1,5 +1,7 @@
 # Mercado libre - test de buscador
 
+El Proyecto fue desarrollado con Java 8, por lo que debes tenerlo instalado en tu sistema
+
 Para probar esta funcionalidad debes:
 
 1. Clonar el repositorio
