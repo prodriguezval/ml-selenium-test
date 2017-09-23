@@ -10,7 +10,7 @@ git clone https://github.com/prodriguezval/ml-selenium-test.git
 
 2. Abrir el proyecto con el IDE de tu preferencia, yo use InteliJ, puedes descargar la version community [aqui](https://www.jetbrains.com/idea/download/): 
 
-3. Actualizar las dependencias para el proyecto
+3. El proyecto fue desarrollado como Maven Proyect, por lo que debes actualizar las dependencias antesd e ejecutar la aplicacion
 
 4. Correr la clase SeleniumTest que contiene la prueba con Selenium
 
